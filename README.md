@@ -2,6 +2,14 @@
 
 A separate portfolio for the three Java projects, built in the supplied folder. Soft blue, lilac, mint and peach backgrounds, cobalt accents, an animated exploded-layer illustration, project case studies, an interactive workflow explorer, and responsive layouts distinguish it from the dark Data Science portfolio.
 
+Public website: [dilep01.github.io/java-portfolio](https://dilep01.github.io/java-portfolio/).
+
+## GitHub Pages publishing
+
+The `.github/workflows/deploy-pages.yml` workflow checks and builds the static site, then deploys `dist/` to GitHub Pages whenever `main` is updated. GitHub Pages uses **GitHub Actions** as its publishing source. There are no dependencies to install and no deployment secrets to configure.
+
+This working folder also has a separate Sites publication. The `github` remote points to `Dilep01/java-portfolio`; push updates with `git push github HEAD:main`. Only the built static files are deployed by the Pages workflow.
+
 ## Run
 
 Requires Node.js 20 or newer. No packages or API keys are needed.
