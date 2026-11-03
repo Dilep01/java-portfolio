@@ -1,6 +1,6 @@
 # Dilep Kumar K — Java full-stack portfolio
 
-A separate portfolio for the three Java projects, built in the supplied folder. Warm ivory, cobalt blue, an animated exploded-layer illustration, project case studies, an interactive workflow explorer, and responsive layouts distinguish it from the dark Data Science portfolio.
+A separate portfolio for the three Java projects, built in the supplied folder. Soft blue, lilac, mint and peach backgrounds, cobalt accents, an animated exploded-layer illustration, project case studies, an interactive workflow explorer, and responsive layouts distinguish it from the dark Data Science portfolio.
 
 ## Run
 
